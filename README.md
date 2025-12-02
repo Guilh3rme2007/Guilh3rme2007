@@ -16,7 +16,9 @@
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3">
     </a>
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySql">
+    <a href="https://github.com/Guilh3rme2007/Projeto-Mind-Stack">
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySql">      
+    </a>
     </div>
     <hr>
     <div style="display: inline-block">
