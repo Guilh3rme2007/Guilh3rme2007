@@ -7,14 +7,13 @@
   <a href="https://www.linkedin.com/in/guilherme-ara%C3%BAjo-eng/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
   <a href="https://github.com/Guilh3rme2007" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
   <a href="mailto:araujo.gpdem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-  <a href="https://wa.me/5561981577146" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
   <a href="https://instagram.com/@gpdm_arauj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
-Atualmente cursando **Engenharia de Software** na UDF (Previsão de graduação em 2028). Tenho foco no desenvolvimento de soluções completas, unindo lógica robusta no back-end com interfaces funcionais no front-end. Além da programação, tenho forte interesse em **engenharia de áudio** e produção musical.
+Atualmente cursando **Engenharia de Software** na UDF (Previsão de graduação em 2028). Tenho foco no desenvolvimento de soluções completas, unindo lógica robusta no back-end com interfaces funcionais no front-end.
 
 - 🛠 Atualmente desenvolvendo o [DevChallenge](https://github.com/Guilh3rme2007/DevChallenge) (Gerador de desafios para portfólios).
 - 📊 Aprimorando meu [Gerenciador de Tarefas e Finanças](https://github.com/Guilh3rme2007/gerenciador-de-tarefas).
@@ -44,12 +43,16 @@ Atualmente cursando **Engenharia de Software** na UDF (Previsão de graduação 
 
 ---
 
-### 📈 Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilh3rme2007/Guilh3rme2007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilh3rme2007/Guilh3rme2007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilh3rme2007/Guilh3rme2007/output/github-contribution-grid-snake.svg">
-</picture>
+### 📈 Projetos
+<p align="left">
+  <p><strong>Quiz Bíblico</strong> - aplicação web para testar os conhecimentos sobre a bíblia </p>
+  <p><strong>MoCap</strong> - sistema de captura de movimentos utilizando python</p>
+  <p><strong>Gerenciamento de Turma</strong> - sistema de gerenciamento de turmas utilizando C++</p>
+  <p><strong>DevChallenge</strong> - aplicação conectada com API do Gemini para criação de desafios para programadores</p>
+  <p><strong>Entre Laços</strong> - aplicação de conexão entre prestadores de serviço e solicitantes</p>
+</p>
 
+### Contribuição 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Guilh3rme2007&theme=react-dark)](https://github.com/Guilh3rme2007/github-readme-activity-graph)
 <br />
 
