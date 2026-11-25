@@ -18,7 +18,7 @@ Atualmente cursando **Engenharia de Software** na UDF (Previsão de graduação 
 - 🛠 Atualmente desenvolvendo o [DevChallenge](https://github.com/Guilh3rme2007/DevChallenge) (Gerador de desafios para portfólios).
 - 📊 Aprimorando meu [Gerenciador de Tarefas e Finanças](https://github.com/Guilh3rme2007/gerenciador-de-tarefas).
 - 🏫 Construindo um [Sistema de Controle de Turma](https://github.com/Guilh3rme2007/Sistema_de_controle_de_turma).
-- 📂 Veja meu portfólio completo em: [guilherme-araujo.dev](https://github.com/Guilh3rme2007/portifolio)
+- 📂 Veja meu portfólio completo em: [guilhermearaujo.me]( http://guilhermearaujo.me/)
 
 ---
 
